@@ -1,0 +1,86 @@
+.BG{
+	background-color: #ff9c99;
+
+
+}
+
+.line{
+	margin-left: 290px;
+	text-align: center;
+	font-size: 50px;
+	color: #333333;
+	font-family: Futura, bold;
+	background-color: White;
+	Height: 80px;
+	width: 1000px;
+
+
+}
+
+.next{
+
+	text-align: center;
+	font-size: 50px;
+	color: #333333;
+	font-family: Futura, bold;
+	
+}
+
+.para{
+
+	font-size: 25px;
+	color: #333333;
+	font-family: Futura, bold;
+	text-align: center;
+
+}
+
+.total{
+	margin-left: 140px;
+
+
+}
+
+.first{
+	height: 400px;
+	width: 400px;
+	margin-left: 20px;
+
+
+}
+
+.second{
+	height: 400px;
+	width: 400px;
+	margin-left: 20px;
+
+
+}
+
+.third{
+	height: 400px;
+	width: 400px;
+	margin-left: 20px;
+
+
+}
+
+.middle{
+	font-size: 75px;
+	color: #333333;
+	font-family: Futura, bold;
+	text-align: center;
+
+
+
+}
+
+.read{
+
+	font-size: 40px;
+	color: white;
+	font-family: Futura, bold;
+	text-align: center;
+
+}
+
